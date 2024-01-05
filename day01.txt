@@ -1,4 +1,6 @@
 terminal 쓰는법
+
+초기
 git init
 git add .
 git commit -m ""
@@ -9,15 +11,10 @@ git remote -v
 git push -u origin main
 로그인
 
-
 데이터 추가
 git add .
 git commit -m ""
 git push
 
-
-khay man
-
-
-
-hello
+commit 확인하기
+다음 시간에
