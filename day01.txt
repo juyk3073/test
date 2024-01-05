@@ -15,6 +15,5 @@ git add .
 git commit -m ""
 git push
 
-khay man
-I love you
-Me too
+
+
