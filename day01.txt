@@ -1,2 +1,16 @@
-first line!!
-second line!!juyk3073@naver.com
+terminal 쓰는법
+git init
+git add .
+git commit -m ""
+git remote -v
+없으면
+git remote add ~~~
+git remote -v
+git push -u origin main
+로그인
+
+
+데이터 추가
+git add .
+git commit -m ""
+git push
